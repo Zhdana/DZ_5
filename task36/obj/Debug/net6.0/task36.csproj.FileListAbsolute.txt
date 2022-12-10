@@ -1,0 +1,15 @@
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\bin\Debug\net6.0\task36.exe
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\bin\Debug\net6.0\task36.deps.json
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\bin\Debug\net6.0\task36.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\bin\Debug\net6.0\task36.pdb
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\refint\task36.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.pdb
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\DZ_5\task36\obj\Debug\net6.0\ref\task36.dll
